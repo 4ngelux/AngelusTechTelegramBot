@@ -1,0 +1,15 @@
+{
+  "name": "botTelegram",
+  "version": "1.0.0",
+  "description": "Bot de Telegram By AngelusTech",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
